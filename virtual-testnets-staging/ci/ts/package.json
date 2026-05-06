@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "@types/node": "^20.12.7",
-    "axios": "^1.6.8",
+    "axios": "^1.15.2",
     "dotenv": "^16.4.5",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5"
